@@ -3,6 +3,10 @@
 
 ## Git bisect exercise
 
+### Note
+
+This repo is based on https://github.com/bast/git-bisect-exercise, according to its license.
+
 ### Motivation
 
 The motivation for this exercise is to be able to do archaeology with Git on a
